@@ -19,6 +19,6 @@ Python 3
   
 **Описание файлов:**  
 [`concat_csv.py`](https://github.com/Svkhorol/Useful_Functions/blob/main/concat_csv/concat_csv.py): код функции в Python с подробными комментариями    
-: ноутбук Jupyter c описанием функции и примером её работы  
+`description.ipynb`: ноутбук Jupyter c описанием функции и примером её работы  
 каталог с данными из примера  
 `Readme.md`: этот файл
