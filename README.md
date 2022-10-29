@@ -1,2 +1,4 @@
-# Useful_Functions
-Functions for working with folders and csv-files in Pandas
+# Useful Functions
+Functions for working with folders and files, creating DataFrame in Pandas
+
+concat_csv
