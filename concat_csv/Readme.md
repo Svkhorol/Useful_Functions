@@ -18,7 +18,7 @@ Python 3
 Библиотека OS    
   
 **Описание файлов:**  
-[concat_csv.py](https://github.com/Svkhorol/Useful_Functions/blob/main/concat_csv/concat_csv.py): код функции в Python с подробными комментариями    
+[`concat_csv.py`](https://github.com/Svkhorol/Useful_Functions/blob/main/concat_csv/concat_csv.py): код функции в Python с подробными комментариями    
 : ноутбук Jupyter c описанием функции и примером её работы  
 каталог с данными из примера  
-README.md: этот файл
+`Readme.md`: этот файл
