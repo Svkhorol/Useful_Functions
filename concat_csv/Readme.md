@@ -17,7 +17,7 @@ Python 3
 Библиотека Pandas  
 Библиотека OS    
   
-**Описание файлов:**  
+**Содержание:**  
 [`concat_csv.py`](https://github.com/Svkhorol/Useful_Functions/blob/main/concat_csv/concat_csv.py): код функции в Python с подробными комментариями    
 [`description.ipynb`](https://github.com/Svkhorol/Useful_Functions/blob/main/concat_csv/description.ipynb): ноутбук Jupyter c описанием функции и примером её работы  
 каталог с данными из примера  
